@@ -6,4 +6,4 @@ A simple java Text editor
 v 1.0.0
 
 ## license
-Copyright &copy 
+Copyright &copy; 2022 DEP09. A;; right reserved.
